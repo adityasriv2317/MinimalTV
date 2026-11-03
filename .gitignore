@@ -1,0 +1,24 @@
+# Tizen Web App Build Output
+*.wgt
+.manifest.tmp
+
+# Signing / PKI files
+author-signature.xml
+signature1.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local development
+local-storage.json

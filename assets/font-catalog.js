@@ -1,0 +1,1 @@
+window.MinimalTVPrivateFontIDs = ["geist", "newsreader"];
